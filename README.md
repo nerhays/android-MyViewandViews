@@ -6,6 +6,6 @@
 
 
 # android-StyleTheme
-![Alt Teks](https://github.com/nerhays/android-MyViewandViews/blob/main/1style.jpeg)
-![Alt Teks](https://github.com/nerhays/android-MyViewandViews/blob/main/2style.jpeg)
+![Alt Teks](https://github.com/nerhays/android-MyViewandViews/blob/main/stylee.jpeg)
+![Alt Teks](https://github.com/nerhays/android-MyViewandViews/blob/main/styleee.jpeg)
 
